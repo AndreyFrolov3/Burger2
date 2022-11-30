@@ -5,7 +5,7 @@ html, body{
 }
 
 header {
-    background: url(../img/bg.png) no-repeat center center;
+    background: url(img/bg.png) no-repeat center center;
     height: 862px;
     margin: 0 auto;
 }
@@ -95,7 +95,7 @@ header {
 }
 
 .banner1 {
-    background: url(../img/burger1.png) no-repeat;
+    background: url(img/burger1.png) no-repeat;
     width: 700px;
     height: 395px;
 }
@@ -104,7 +104,7 @@ header {
     display: flex;
 }
 .banner2 {
-    background: url(../img/fresh-tasty.png)no-repeat;
+    background: url(img/fresh-tasty.png)no-repeat;
     width: 700px;
     height: 446px;
     margin-left: 66px;
